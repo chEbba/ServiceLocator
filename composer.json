@@ -1,6 +1,6 @@
 {
     "name": "che/service-locator",
-    "description": "Service locator pattern",
+    "description": "Simple abstraction for service locator pattern",
     "keywords": ["service", "locator", "container"],
     "homepage": "http://github.com/chEbba/ServiceLocator",
     "type": "library",
